@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id":"e326e63c-7dd3-49a1-bef5-696a2dda6518",
+            "age": "23",
+            "contact": "82230356779",
+            "email": "sanjayrahul6787@gmail.com",
+            "jobRole": "it",
+            "name": "sanjay"
+        },
+        {
+            "id":"65e6147d-90dd-480a-a801-581bb9f2ab90",
+            "age": "24",
+            "contact": "1234567890",
+            "email": "rahul@gmail.com",
+            "jobRole": "it",
+            "name": "rahul"
+        }
+    ]
+}

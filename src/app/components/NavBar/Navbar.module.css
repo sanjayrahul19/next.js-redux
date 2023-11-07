@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #00f260;
+  background: linear-gradient(to right, #0575e6, #00f260);
+  padding: 16px 0;
+}
+
+.nav h1{
+    font-size: 30px;
+    color:white;
+    font-weight:500;
+}
+
+.list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+}
+
+.list>a{
+    font-size: 20px;
+    font-weight: 300;
+    color:white
+}
